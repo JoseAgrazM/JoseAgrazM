@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- I’m @JoseAgrazM
+
 <!--- 
 
 - 👀 I’m interested in ...
