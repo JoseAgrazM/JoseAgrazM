@@ -18,7 +18,7 @@
 
 ### Ahora
 
-Frontend Developer en [**Advisorsy**](https://advisorsy.es) — trabajando en un panel de administración SaaS con Laravel & MySQL.
+Frontend Developer en [**Advisorsy**](https://advisorsy.es).
 
 ### Sobre mí
 
