@@ -9,7 +9,7 @@
 <br>
 
 [![Portfolio](https://img.shields.io/badge/joseagraz.es-0a0a0a?style=for-the-badge&logo=astro&logoColor=00FF88)](https://joseagraz.es)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00FF88)](https://www.linkedin.com/in/jose-agraz-martínez/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00FF88)](https://www.linkedin.com/in/jose-agraz-mart%C3%ADnez/)
 [![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=00FF88)](mailto:joseagrazm@gmail.com)
 
 </div>
@@ -18,7 +18,7 @@
 
 ### Ahora
 
-Frontend Developer en [**Advisorsy**](https://advisorsy.es) — trabajando en un panel de administración SaaS con Laravel.
+Frontend Developer en [**Advisorsy**](https://advisorsy.es) — trabajando en un panel de administración SaaS con Laravel & MySQL.
 
 ### Sobre mí
 
@@ -27,27 +27,30 @@ Me gusta construir interfaces simples que funcionen bien, sin ruido. Siempre apr
 ### Lo que he construido
 
 [**Hotel Manager**](https://github.com/JoseAgrazM/hotel-issue-tracker-frontend) — Sistema full-stack de gestión de incidencias hoteleras
-`React` `Redux Toolkit` `Express` `Prisma` `MySQL` `React Router`
+`React` `Redux Toolkit` `Express` `Prisma` `MySQL` `Axios` `React Router`
 
 [**Photojam**](https://github.com/JoseAgrazM/photojam) — Web de fotografía con la API de Unsplash
 `React` `Redux Toolkit` `Firebase` `React Router` `JavaScript`
 
 **ENOC** — Asistente IA multi-agente con patrón orquestador
-`n8n` `Telegram Bot API` `PostgreSQL`
+`n8n` `Telegram Bot API` `PostgreSQL` `Supabase`
 
 [**Portfolio**](https://joseagraz.es) — Mi portfolio, hecho con Astro. *Psst... escribe "hello" cuando lo visites*
-`Astro` `TypeScript` `Tailwind`
+`Astro` `TypeScript` `Tailwind` `View Transitions`
+
+---
+
+### Tecnologías
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=react,ts,js,laravel,astro,tailwind,nodejs,express,prisma,mysql,postgres,firebase,redux,supabase,figma,git&theme=dark&perline=8)](https://skillicons.dev)
+
+</div>
 
 ---
 
 ### Estadísticas
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=JoseAgrazM&show_icons=true&hide_title=true&hide_border=true&bg_color=0a0a0a&text_color=a0a0a0&icon_color=00FF88&title_color=00FF88&include_all_commits=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAgrazM&layout=compact&hide_title=true&hide_border=true&bg_color=0a0a0a&text_color=a0a0a0&title_color=00FF88&langs_count=6" />
-
-</div>
 
 <div align="center">
 
