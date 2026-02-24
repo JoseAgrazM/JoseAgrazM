@@ -36,7 +36,7 @@ Me gusta construir interfaces simples que funcionen bien, sin ruido. Siempre apr
 `n8n` `Telegram Bot API` `PostgreSQL` `Supabase`
 
 [**Portfolio**](https://joseagraz.es) — Mi portfolio, hecho con Astro. *Psst... escribe "hello" cuando lo visites*
-`Astro` `TypeScript` `Tailwind` `View Transitions`
+`Astro` `TypeScript` `Tailwind`
 
 ---
 
